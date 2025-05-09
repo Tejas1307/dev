@@ -32,7 +32,7 @@ These are the features we decided to implement in the meeting on Friday, 30 Apri
         * Input initially not provided.
         * (base level Notion Implementation) Would be a clean feature-rich notetaking experience.
         * Features in this mode will include - LaTex formatting, markdown formatting, tables, pictures (through markdown), any quality of life features.
-        * This will possibly be a free mode, so it's important to have a fluhed out UI and easy to use design.
+        * This will possibly be a free mode, so it's important to have a flushed out UI and easy to use design.
         * Once the use finishes notetaking step, they are led to input screen where they can choose to add more inputs like lecture notes, or use their notes to generate the resources as mentioned above.
 
 
